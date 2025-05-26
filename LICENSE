@@ -1,0 +1,15 @@
+Copyright © 2025 Cercopi. All rights reserved.
+
+This project was created by Cercopi for Leagues of Code AI Hackathon 2025. You may view this code for educational purposes only.
+
+You may NOT:
+- Copy, reuse, or modify the code in this repository.
+- Distribute it without written permission.
+
+This project uses external libraries:
+- OpenCV (Apache License 2.0)
+- MediaPipe (Apache License 2.0)
+
+Each of these libraries is licensed separately and is not covered by this project's copyright.
+
+Please refer to their official repositories for license details.
