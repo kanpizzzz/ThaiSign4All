@@ -6,9 +6,10 @@ You may NOT:
 - Copy, reuse, or modify the code in this repository.
 - Distribute it without written permission.
 
-This project uses external libraries:
-- OpenCV (Apache License 2.0)
-- MediaPipe (Apache License 2.0)
+This project uses external open-source libraries under the following licenses:
+- Apache License 2.0 (OpenCV, MediaPipe, TensorFlow/Keras)
+- BSD License (NumPy)
+- Matplotlib License (Matplotlib)
 
 Each of these libraries is licensed separately and is not covered by this project's copyright.
 
